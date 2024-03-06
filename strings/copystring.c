@@ -9,10 +9,10 @@ int main(){
     // am2[0] = 'M';
     // printf("%p\n",am);
     // printf("%p",am2);
-    char* st = "Physics Wallah";
+    char* st = "ABHIJEET KARMAKAR";
     char* am;
     am = st;
-    am ="college Wallah";
+    am ="MBHIJEET KARMAKAR";
     printf("%s\n",am);
     printf("%s",st);
     return 0;
